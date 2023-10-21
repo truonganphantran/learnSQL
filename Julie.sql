@@ -52,6 +52,7 @@ GROUP BY age_bucket, activity;
 
 
 ---SELF JOIN cần ngẫm: https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/?envType=study-plan-v2&envId=top-sql-50
+https://drive.google.com/drive/u/1/folders/1in2sXXdtTy0Gw7P42ZUDHDif_z-ZvZ1p
 SELECT  
       emp.employee_id
       , emp.name
